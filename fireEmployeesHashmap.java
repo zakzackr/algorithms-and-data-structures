@@ -35,7 +35,6 @@ class Main{
         }
 
         System.out.println("[" + output.substring(2) + "]");
-        
     }
 
     public static void main(String[] args){
