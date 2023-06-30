@@ -18,5 +18,6 @@ class Main{
 
         System.out.println(seachList(arr, 23));
         System.out.println(seachList(arr, 1));
+        System.out.println(seachList(arr, 111));
     }
 }
