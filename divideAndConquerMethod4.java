@@ -15,6 +15,7 @@ class Main{
         return commonPredix;
     }
 
+    // 末尾再帰
     public static String commonPrefix(String s1, String s2, int index, String output){
         if (index >= s1.length() || index >= s2.length() || s1.charAt(index) != s2.charAt(index)) return output;
         return commonPrefix(s1, s2, index + 1, output + s1.charAt(index));
