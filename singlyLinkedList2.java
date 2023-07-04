@@ -29,8 +29,10 @@ class Main{
 
     public static void main(String[] args){
         int[] intArr = {35,23,546,67,86,234,56,767,34,1,98,78,555};
+        
         // creating a singlyLinkedList
         SinglyLinkedList numList = new SinglyLinkedList(new Node(intArr[0]));
+        
         Node currentNode = numList.head;
         for (int i = 1; i < intArr.length; i++){
             currentNode.next = new Node(intArr[i]);
