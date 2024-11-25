@@ -1,5 +1,5 @@
 # 📍 アルゴリズムとデータ構造
-[Recursion](https://recursionist.io/)の「コンピュータサイエンスの基礎→上級→データ構造入門・木構造」のコースの1周目で学習した内容です。2周目以降のソースコードは、[tilリポジトリ](https://github.com/zakzackr/til/algorithms-and-data-structures)に載せています。  
+[Recursion](https://recursionist.io/)の「コンピュータサイエンスの基礎→上級→データ構造入門・木構造」のコースの1周目で学習した内容です。2周目以降のソースコードは、[tilリポジトリ](https://github.com/zakzackr/til/algorithms-and-data-structures/)に載せています。  
 <br>   
    
 # 💻 内容　
